@@ -15,10 +15,7 @@
   - Las props son inmutables.
   - El estado de los componentes si es mutable.
   - ES6 , usar spread operator para los porps
-
-# Read More
- - Booirlerplate*
-
+  
 # Validando tipado en propiedades
   - Desde react 15.5 no esta en el core react.
    esta en 'prop-types'
