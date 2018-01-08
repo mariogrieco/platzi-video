@@ -20,7 +20,7 @@
   - Desde react 15.5 no esta en el core react.
    esta en 'prop-types'
     
-    ```
+    ```js 
       Media.propTypes = {
         image: PropTypes.string,
         author: PropTypes.string,
@@ -115,3 +115,5 @@
       /src/[compoents name]/components
                               [- puros o funcionales
                               [./containers/ con estado o intelignetes
+                              
+  ## Composición de componentes
